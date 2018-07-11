@@ -4,4 +4,4 @@ A puzzle game in which players have to solve multiple stages of a puzzle to comp
 
 Language - C
 
-SAMS - SAve My Son 
+SAMS - SAve Me Son 
