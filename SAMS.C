@@ -617,7 +617,7 @@ void gameloop(int level)
 	   exit(0);
 	} else if (lives == 0)
 		{  settextstyle(0,0,2);
-			      outtextxy(80,350,"\Sorry you lose\n");
+			      outtextxy(80,350,"\nSorry you lose\n");
 	       settextstyle(0,0,0);
 	       //	printf("\nSorry you lose, the word was: %s\n",
 			sprintf(buf, "%c", words[randomIndex][i]);
